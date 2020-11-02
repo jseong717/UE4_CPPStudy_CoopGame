@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "CoopGame",
-			"Path": "C:\\Users\\jseon\\Desktop\\CoopGame\\Source\\CoopGame.Target.cs",
+			"Path": "C:\\Users\\jseon\\Desktop\\Ue4CoopGame\\CoopGame\\Source\\CoopGame.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "CoopGameEditor",
-			"Path": "C:\\Users\\jseon\\Desktop\\CoopGame\\Source\\CoopGameEditor.Target.cs",
+			"Path": "C:\\Users\\jseon\\Desktop\\Ue4CoopGame\\CoopGame\\Source\\CoopGameEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

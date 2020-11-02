@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\jseon\\Desktop\\CoopGame\\Source\\CoopGame\\CoopGame.Build.cs",
-		"C:\\Users\\jseon\\Desktop\\CoopGame\\Source\\CoopGame.Target.cs",
-		"C:\\Users\\jseon\\Desktop\\CoopGame\\Source\\CoopGameEditor.Target.cs"
+		"C:\\Users\\jseon\\Desktop\\Ue4CoopGame\\CoopGame\\Source\\CoopGame\\CoopGame.Build.cs",
+		"C:\\Users\\jseon\\Desktop\\Ue4CoopGame\\CoopGame\\Source\\CoopGame.Target.cs",
+		"C:\\Users\\jseon\\Desktop\\Ue4CoopGame\\CoopGame\\Source\\CoopGameEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.4"
 }
