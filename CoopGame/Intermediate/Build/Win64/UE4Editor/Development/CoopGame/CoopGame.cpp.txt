@@ -1,0 +1,2 @@
+C:\Users\jseon\Desktop\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+c:\users\jseon\desktop\coopgame\source\coopgame\CoopGame.h
