@@ -1,7 +1,3 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jseon\Desktop\Ue4CoopGame).
-  Building CoopGameEditor...
-  Using Visual Studio 2017 14.16.27043 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 1 action with 6 processes...
-    [1/1] CoopGameEditor.target
-  Total time in Parallel executor: 0.37 seconds
-  Total execution time: 1.18 seconds
+  Target is up to date
+  Total execution time: 0.64 seconds
