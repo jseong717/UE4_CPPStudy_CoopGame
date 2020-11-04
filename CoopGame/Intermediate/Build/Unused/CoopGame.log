@@ -1,12 +1,17 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\jseon\Desktop\Ue4CoopGame).
+  Deleted hot-reload file: C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Binaries\Win64\UE4Editor-CoopGame-0001.dll
+  Deleted hot-reload file: C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Binaries\Win64\UE4Editor-CoopGame-0002.dll
+  Deleted hot-reload file: C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Binaries\Win64\UE4Editor-CoopGame-0004.dll
+  Deleted hot-reload file: C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0001.lib
+  Deleted hot-reload file: C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0002.lib
+  Deleted hot-reload file: C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0004.lib
   Building CoopGameEditor...
   Using Visual Studio 2017 14.16.27043 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 6 processes...
-    [1/4] SWeapon.cpp
-    [2/4] UE4Editor-CoopGame-0001.lib
-       C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0001.lib 라이브러리 및 C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0001.exp 개체를 생성하고 있습니다.
-    [3/4] UE4Editor-CoopGame-0001.dll
-       C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0001.suppressed.lib 라이브러리 및 C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame-0001.suppressed.exp 개체를 생성하고 있습니다.
-    [4/4] CoopGameEditor.target
-  Total time in Parallel executor: 2.39 seconds
-  Total execution time: 3.15 seconds
+  Building 3 actions with 6 processes...
+    [1/3] UE4Editor-CoopGame.lib
+       C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.lib 라이브러리 및 C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.exp 개체를 생성하고 있습니다.
+    [2/3] UE4Editor-CoopGame.dll
+       C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.lib 라이브러리 및 C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\UE4Editor-CoopGame.suppressed.exp 개체를 생성하고 있습니다.
+    [3/3] CoopGameEditor.target
+  Total time in Parallel executor: 1.60 seconds
+  Total execution time: 2.46 seconds
