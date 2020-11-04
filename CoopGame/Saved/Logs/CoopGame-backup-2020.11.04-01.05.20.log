@@ -1,0 +1,1489 @@
+﻿Log file open, 11/04/20 09:13:01
+LogInit: Display: Running engine for game: CoopGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.822799
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.04-00.13.02:273][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.04-00.13.02:273][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.04-00.13.02:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:273][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.04-00.13.02:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:273][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.04-00.13.02:273][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.04-00.13.02:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:274][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:279][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.04-00.13.02:279][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.04-00.13.02:280][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.04-00.13.02:281][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.04-00.13.02:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.04-00.13.02:281][  0]LogHAL: Display: Platform has ~ 32 GB [34299195392 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.04-00.13.02:281][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.04-00.13.02:281][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.04-00.13.02:281][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:281][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.04-00.13.02:282][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.04-00.13.02:287][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.04-00.13.02:287][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.04-00.13.02:287][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.04-00.13.02:287][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Config/Windows/Engine.ini]
+[2020.11.04-00.13.02:287][  0]LogInit: Computer: DESKTOP-2A6O102
+[2020.11.04-00.13.02:287][  0]LogInit: User: jseon
+[2020.11.04-00.13.02:288][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.11.04-00.13.02:288][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.04-00.13.02:288][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.11.04-00.13.02:288][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.04-00.13.02:288][  0]LogMemory: Process Physical Memory: 115.99 MB used, 115.99 MB peak
+[2020.11.04-00.13.02:288][  0]LogMemory: Process Virtual Memory: 103.88 MB used, 103.88 MB peak
+[2020.11.04-00.13.02:288][  0]LogMemory: Physical Memory: 7406.33 MB used,  25303.93 MB free, 32710.26 MB total
+[2020.11.04-00.13.02:288][  0]LogMemory: Virtual Memory: 5147.21 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.11.04-00.13.02:298][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.04-00.13.02:533][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.04-00.13.02:534][  0]LogInit: Using OS detected language (ko-KR).
+[2020.11.04-00.13.02:534][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.11.04-00.13.02:552][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.11.04-00.13.02:745][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.04-00.13.02:907][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.04-00.13.02:907][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.04-00.13.05:935][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.04-00.13.05:935][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.04-00.13.05:935][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.04-00.13.05:935][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.04-00.13.06:032][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2020.11.04-00.13.06:032][  0]LogD3D11RHI:       8011/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.04-00.13.06:034][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.04-00.13.06:034][  0]LogD3D11RHI:       0/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.04-00.13.06:034][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.04-00.13.06:042][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.04-00.13.06:042][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.04-00.13.06:042][  0]LogWindows: EnumDisplayDevices:
+[2020.11.04-00.13.06:042][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2020.11.04-00.13.06:043][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.11.04-00.13.06:044][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.11.04-00.13.06:045][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2020.11.04-00.13.06:046][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.04-00.13.06:046][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2020.11.04-00.13.06:046][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2020.11.04-00.13.06:046][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2020.11.04-00.13.06:046][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2020.11.04-00.13.06:107][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.04-00.13.06:108][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.04-00.13.06:108][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.04-00.13.06:198][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.04-00.13.06:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.04-00.13.06:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.04-00.13.06:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.04-00.13.06:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.04-00.13.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.04-00.13.06:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.04-00.13.06:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.04-00.13.06:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.04-00.13.06:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.04-00.13.06:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.04-00.13.06:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.04-00.13.06:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.04-00.13.06:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.04-00.13.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.04-00.13.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.04-00.13.06:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.04-00.13.06:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.04-00.13.06:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.04-00.13.06:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.04-00.13.06:960][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.04-00.13.07:015][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.04-00.13.07:203][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Intermediate/Shaders/WorkingDirectory/4192/).
+[2020.11.04-00.13.07:203][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jseon/AppData/Local/Temp/UnrealShaderWorkingDir/F44C3C4247053D8AB000CE996DDA52B0/'.
+[2020.11.04-00.13.07:204][  0]LogXGEController: Cleaning working directory: C:/Users/jseon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.04-00.13.07:205][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.04-00.13.07:205][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.04-00.13.07:205][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.04-00.13.10:408][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.04-00.13.10:597][  0]LogDerivedDataCache: Loaded boot cache 0.19s 75MB C:/Users/jseon/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.04-00.13.10:597][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jseon/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.04-00.13.10:597][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.04-00.13.10:597][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.04-00.13.10:597][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.04-00.13.10:597][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.04-00.13.10:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.04-00.13.10:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.04-00.13.10:616][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.04-00.13.10:617][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jseon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.04-00.13.10:617][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.04-00.13.10:617][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.04-00.13.10:665][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.04-00.13.10:676][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.04-00.13.10:718][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.11.04-00.13.11:034][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.04-00.13.11:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.04-00.13.11:311][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.04-00.13.11:311][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.04-00.13.11:311][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.04-00.13.11:311][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.04-00.13.11:372][  0]LogNetVersion: CoopGame 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2766024207)
+[2020.11.04-00.13.12:681][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000017B8687A9C0), frame # 0
+[2020.11.04-00.13.12:681][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017B8671EAC0), frame # 0
+[2020.11.04-00.13.12:685][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017B8676DC00), frame # 0
+[2020.11.04-00.13.12:777][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.064940 seconds
+[2020.11.04-00.13.12:781][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.04-00.13.12:781][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.04-00.13.12:781][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.04-00.13.13:849][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.04-00.13.13:859][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.04-00.13.14:077][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.11.04-00.13.14:078][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.11.04-00.13.14:091][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.11.04-00.13.14:100][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.11.04-00.13.14:120][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.11.04-00.13.14:696][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.04-00.13.14:734][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.04-00.13.14:734][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.04-00.13.14:844][  0]LogOcInput: OculusInput pre-init called
+[2020.11.04-00.13.14:866][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.04-00.13.14:866][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.04-00.13.14:997][  0]LogEngine: Initializing Engine...
+[2020.11.04-00.13.14:999][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.04-00.13.14:999][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.04-00.13.15:000][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.04-00.13.15:291][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.04-00.13.15:320][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.04-00.13.15:320][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017B8CDDBC00), frame # 0
+[2020.11.04-00.13.15:321][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017B8CDD7B00), frame # 0
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-00.13.15:332][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-00.13.15:332][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-00.13.15:334][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-00.13.15:334][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-00.13.15:373][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-00.13.15:373][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-00.13.15:433][  0]LogAudioMixer: Display: Using Audio Device 스피커(USB PnP Audio Device)
+[2020.11.04-00.13.15:435][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-00.13.15:460][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-00.13.15:460][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-00.13.15:462][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-00.13.15:463][  0]LogInit: FAudioDevice initialized.
+[2020.11.04-00.13.15:463][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.04-00.13.15:527][  0]LogDerivedDataCache: Saved boot cache 0.06s 75MB C:/Users/jseon/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.04-00.13.15:532][  0]LogInit: Texture streaming: Enabled
+[2020.11.04-00.13.15:562][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.04-00.13.15:562][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.04-00.13.15:569][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.04-00.13.15:661][  0]LogInit: Transaction tracking system initialized
+[2020.11.04-00.13.15:712][  0]BlueprintLog: New page: 에디터 로드
+[2020.11.04-00.13.15:902][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.11.04-00.13.16:427][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.04-00.13.16:428][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.04-00.13.16:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/' took 0.00s
+[2020.11.04-00.13.17:020][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2020.11.04-00.13.17:020][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.824
+[2020.11.04-00.13.17:021][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.04-00.13.17:027][  0]LightingResults: New page: 라이팅 빌드
+[2020.11.04-00.13.17:030][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-00.13.17:030][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-00.13.17:030][  0]MapCheck: New page: 맵 체크
+[2020.11.04-00.13.17:030][  0]LightingResults: New page: 라이팅 빌드
+[2020.11.04-00.13.17:041][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017B8CDDBC00), frame # 0
+[2020.11.04-00.13.17:041][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017B8CDD7B00), frame # 0
+[2020.11.04-00.13.17:041][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.04-00.13.17:954][  0]LogAIModule: Creating AISystem for world Test1
+[2020.11.04-00.13.17:954][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017B94A0BE00), frame # 0
+[2020.11.04-00.13.17:954][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017B8D239BC0), frame # 0
+[2020.11.04-00.13.17:978][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.04-00.13.17:990][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.04-00.13.17:990][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.04-00.13.17:990][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.373ms.
+[2020.11.04-00.13.17:990][  0]LogFileHelpers: Loading map 'Test1' took 0.970
+[2020.11.04-00.13.18:012][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.815
+[2020.11.04-00.13.18:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-00.13.18:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-00.13.18:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-00.13.18:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-00.13.18:201][  0]LogCollectionManager: Loaded 0 collections in 0.001999 seconds
+[2020.11.04-00.13.18:228][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Collections/' took 0.00s
+[2020.11.04-00.13.18:228][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Developers/jseon/Collections/' took 0.00s
+[2020.11.04-00.13.18:228][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Collections/' took 0.00s
+[2020.11.04-00.13.18:228][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 3432 classes and 824 folders.
+[2020.11.04-00.13.18:235][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.04-00.13.18:598][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.04-00.13.18:606][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.11.04-00.13.18:769][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.04-00.13.18:769][  0]LogLoad: (Engine Initialization) Total time: 23.57 seconds
+[2020.11.04-00.13.18:769][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.04-00.13.18:811][  0]LogAssetRegistry: Asset discovery search completed in 8.0941 seconds
+[2020.11.04-00.13.18:815][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.11.04-00.13.18:817][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.04-00.13.18:830][  0]LogSlate: Took 0.005786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.04-00.13.18:845][  0]LogSlate: Took 0.014433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.11.04-00.13.18:859][  0]LogSlate: Took 0.014193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.11.04-00.13.18:865][  0]LogSlate: Took 0.005441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.04-00.13.18:874][  0]LogSlate: Took 0.005703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.04-00.13.19:011][  0]LogRenderer: Reallocating scene render targets to support 716x548 Format 10 NumSamples 1 (Frame:1).
+[2020.11.04-00.13.19:011][  0]LogSlate: Took 0.007729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.04-00.25.36:184][102]LogHotReload: New module detected: UE4Editor-CoopGame-0006.dll
+[2020.11.04-00.25.37:536][107]LogHotReload: Starting Hot-Reload from IDE
+[2020.11.04-00.25.37:540][107]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.04-00.25.37:570][107]LogClass: Could not find existing class SWeaponLuncher in package /Script/CoopGame for HotReload, assuming new class
+[2020.11.04-00.25.37:577][107]LogHotReload: Re-instancing SWeaponLuncher after hot-reload.
+[2020.11.04-00.25.37:582][107]LogContentBrowser: Native class hierarchy updated for 'CoopGame' in 0.0005 seconds. Added 5 classes and 3 folders.
+[2020.11.04-00.25.37:583][107]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.11.04-00.25.37:627][107]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3432 classes and 824 folders.
+[2020.11.04-00.25.37:630][107]Display: HotReload took  0.1s.
+[2020.11.04-00.51.44:569][777]LogHotReload: New module detected: UE4Editor-CoopGame-0008.dll
+[2020.11.04-00.51.45:593][781]LogHotReload: Starting Hot-Reload from IDE
+[2020.11.04-00.51.45:621][781]LogClass: Could not find existing class SWeaponLuncher in package /Script/CoopGame for HotReload, assuming new class
+[2020.11.04-00.51.45:626][781]LogHotReload: Re-instancing SWeaponLuncher after hot-reload.
+[2020.11.04-00.51.45:630][781]LogContentBrowser: Native class hierarchy updated for 'CoopGame' in 0.0005 seconds. Added 5 classes and 3 folders.
+[2020.11.04-00.51.45:631][781]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.11.04-00.51.45:667][781]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3432 classes and 824 folders.
+[2020.11.04-00.51.45:670][781]Display: HotReload took  0.1s.
+[2020.11.04-00.52.00:016][297]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher
+[2020.11.04-00.52.00:544][297]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.11.04-00.52.03:118][483]LogSlate: Window 'BP_Luncher' being destroyed
+[2020.11.04-00.52.05:072][710]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-00.52.05:072][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-00.52.05:129][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher
+[2020.11.04-00.52.05:494][710]LogSlate: Took 0.006452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.04-00.52.07:027][876]LogSlate: Window 'BP_Luncher' being destroyed
+[2020.11.04-00.52.07:485][927]LogSlate: Took 0.007323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.04-00.52.17:385][ 40]BlueprintLog: New page: BP_Luncher 컴파일
+[2020.11.04-00.52.17:418][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.11.04-00.52.18:452][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Luncher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset" SILENT=true
+[2020.11.04-00.52.18:479][154]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_Luncher058B4FEC48AF753B01D03CBED93C0A15.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset'
+[2020.11.04-00.52.18:499][154]AssetCheck: New page: 애셋 저장: BP_Luncher
+[2020.11.04-00.52.18:499][154]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher 유효성 검사
+[2020.11.04-00.52.40:730][739]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-00.52.43:586][ 64]BlueprintLog: New page: BP_Luncher 컴파일
+[2020.11.04-00.52.43:614][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.11.04-00.52.44:228][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Luncher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset" SILENT=true
+[2020.11.04-00.52.44:249][129]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_LuncherCBC471414A14A0DCB1805686F86D2E08.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset'
+[2020.11.04-00.52.44:260][129]AssetCheck: New page: 애셋 저장: BP_Luncher
+[2020.11.04-00.52.44:260][129]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher 유효성 검사
+[2020.11.04-00.53.15:218][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_WeaponProjectile.BP_WeaponProjectile
+[2020.11.04-00.53.16:673][833]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-00.53.16:673][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-00.53.16:731][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_WeaponProjectile.BP_WeaponProjectile
+[2020.11.04-00.53.21:353][296]BlueprintLog: New page: BP_WeaponProjectile 컴파일
+[2020.11.04-00.53.21:384][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.11.04-00.53.21:800][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_WeaponProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_WeaponProjectile.uasset" SILENT=true
+[2020.11.04-00.53.21:821][340]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_WeaponProjectile5665011246B3B16040D2BE873EFC78FE.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_WeaponProjectile.uasset'
+[2020.11.04-00.53.21:835][340]AssetCheck: New page: 애셋 저장: BP_WeaponProjectile
+[2020.11.04-00.53.21:835][340]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_WeaponProjectile.BP_WeaponProjectile 유효성 검사
+[2020.11.04-00.53.35:898][985]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Launcher.Launcher
+[2020.11.04-00.53.35:914][985]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.11.04-00.53.36:102][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.04-00.53.36:109][985]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.11.04-00.53.36:699][986]LogRenderer: Reallocating scene render targets to support 716x844 Format 10 NumSamples 1 (Frame:1).
+[2020.11.04-00.53.37:780][111]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Weapons/Launcher_Skeleton.Launcher_Skeleton
+[2020.11.04-00.53.37:784][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.04-00.53.58:428][818]LogSlate: Window '애셋 체크아웃' being destroyed
+[2020.11.04-00.53.58:453][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Launcher_Skeleton" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Weapons/Launcher_Skeleton.uasset" SILENT=true
+[2020.11.04-00.53.58:468][818]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Launcher_SkeletonA7100E6442ABAE1D9E8517AAA99EBB9C.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Weapons/Launcher_Skeleton.uasset'
+[2020.11.04-00.53.58:483][818]AssetCheck: New page: 애셋 저장: Launcher_Skeleton
+[2020.11.04-00.53.58:483][818]LogContentValidation: Display: Skeleton /Game/Weapons/Launcher_Skeleton.Launcher_Skeleton 유효성 검사
+[2020.11.04-00.54.00:016][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Launcher_Skeleton" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Weapons/Launcher_Skeleton.uasset" SILENT=true
+[2020.11.04-00.54.00:029][992]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Launcher_Skeleton1911E1B747727D40D00A69942306D6D5.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Weapons/Launcher_Skeleton.uasset'
+[2020.11.04-00.54.00:038][992]AssetCheck: New page: 애셋 저장: Launcher_Skeleton
+[2020.11.04-00.54.00:038][992]LogContentValidation: Display: Skeleton /Game/Weapons/Launcher_Skeleton.Launcher_Skeleton 유효성 검사
+[2020.11.04-00.54.00:960][ 94]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-00.54.00:960][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-00.54.01:585][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.04-00.54.01:586][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap/Test1' took 0.042
+[2020.11.04-00.54.01:586][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Launcher] ([1] browsable assets)...
+[2020.11.04-00.54.01:597][135]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Weapons/Launcher.Launcher]
+[2020.11.04-00.54.01:597][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Launcher]
+[2020.11.04-00.54.01:597][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Launcher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Autosaves/Game/Weapons/Launcher_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.11.04-00.54.01:676][135]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Launcher_Auto161A4F3EF4A95F79A22ED029A1ECE6580.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Autosaves/Game/Weapons/Launcher_Auto1.uasset'
+[2020.11.04-00.54.01:677][135]LogFileHelpers: Auto-saving content packages took 0.091
+[2020.11.04-00.54.03:116][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/Launcher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Weapons/Launcher.uasset" SILENT=true
+[2020.11.04-00.54.03:186][294]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/LauncherF6B659B1446BEED61FDED0867D979E64.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Weapons/Launcher.uasset'
+[2020.11.04-00.54.03:197][294]AssetCheck: New page: 애셋 저장: Launcher
+[2020.11.04-00.54.03:197][294]LogContentValidation: Display: SkeletalMesh /Game/Weapons/Launcher.Launcher 유효성 검사
+[2020.11.04-00.54.04:911][485]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-00.54.04:911][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-00.55.38:658][413]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-00.55.40:573][625]BlueprintLog: New page: BP_Luncher 컴파일
+[2020.11.04-00.55.40:616][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.11.04-00.55.40:995][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Luncher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset" SILENT=true
+[2020.11.04-00.55.41:015][660]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_Luncher304F98C8443D7DE15E76BEBA47F865C4.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset'
+[2020.11.04-00.55.41:026][660]AssetCheck: New page: 애셋 저장: BP_Luncher
+[2020.11.04-00.55.41:026][660]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher 유효성 검사
+[2020.11.04-00.55.44:197][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.11.04-00.55.45:393][ 19]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.04-00.55.46:575][ 19]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-00.55.46:575][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-00.55.46:621][ 19]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/BP_WeaponProjectile.BP_WeaponProjectile
+[2020.11.04-00.55.47:368][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.11.04-00.55.47:389][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.11.04-00.55.47:406][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.04-00.55.51:173][398]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.11.04-00.55.52:372][398]LogSlate: Window '부모 클래스 선택' being destroyed
+[2020.11.04-00.56.18:388][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile
+[2020.11.04-00.56.20:057][642]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-00.56.20:091][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.11.04-00.56.20:653][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-00.56.20:663][704]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile8B7991DA45AFE6A95548408F10A97C01.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-00.56.20:675][704]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-00.56.20:676][704]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-00.56.47:992][565]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-00.56.48:026][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.11.04-00.56.48:422][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-00.56.48:441][606]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile195EFD4E44C162ECE40587A98B692723.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-00.56.48:458][606]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-00.56.48:458][606]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-00.57.20:179][303]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-00.57.20:214][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.11.04-00.57.20:812][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-00.57.20:831][367]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile04211F5746B2ABD0DC793A9D602D1D63.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-00.57.20:848][367]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-00.57.20:848][367]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-00.57.24:323][503]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-00.57.28:560][967]BlueprintLog: New page: BP_Luncher 컴파일
+[2020.11.04-00.57.28:598][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.11.04-00.57.29:030][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Luncher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset" SILENT=true
+[2020.11.04-00.57.29:054][ 10]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_LuncherCD0271134EC470F201FC91B70E7CFF27.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset'
+[2020.11.04-00.57.29:069][ 10]AssetCheck: New page: 애셋 저장: BP_Luncher
+[2020.11.04-00.57.29:069][ 10]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher 유효성 검사
+[2020.11.04-00.57.40:623][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn
+[2020.11.04-00.57.47:637][315]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-00.57.53:619][996]BlueprintLog: New page: PlayerPawn 컴파일
+[2020.11.04-00.57.53:674][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.11.04-00.57.54:300][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2020.11.04-00.57.54:332][ 60]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/PlayerPawn43AF96C44FC2B825A77A8D93A343C947.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset'
+[2020.11.04-00.57.54:351][ 60]AssetCheck: New page: 애셋 저장: PlayerPawn
+[2020.11.04-00.57.54:352][ 60]LogContentValidation: Display: Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn 유효성 검사
+[2020.11.04-00.58.17:378][ 27]LogSlate: Took 0.006313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.04-00.58.24:235][634]LogSlate: Window '변수 유형 변경' being destroyed
+[2020.11.04-00.58.29:796][273]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2020.11.04-00.58.29:800][273]LogSlate: Window '블루프린트에서 찾기' being destroyed
+[2020.11.04-00.58.32:987][650]BlueprintLog: New page: PlayerPawn 컴파일
+[2020.11.04-00.58.33:032][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.11.04-00.58.33:616][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2020.11.04-00.58.33:642][713]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/PlayerPawnF5682E6E4770C0A97A0E01BE49853B1B.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset'
+[2020.11.04-00.58.33:658][713]AssetCheck: New page: 애셋 저장: PlayerPawn
+[2020.11.04-00.58.33:658][713]LogContentValidation: Display: Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn 유효성 검사
+[2020.11.04-00.58.38:924][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/Test1" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.04-00.58.38:951][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.04-00.58.38:979][328]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Test1AF62DCFF4B0465C22EE2978600FBD285.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1.umap'
+[2020.11.04-00.58.39:018][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/Test1_BuiltData" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1_BuiltData.uasset" SILENT=true
+[2020.11.04-00.58.39:041][328]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Test1_BuiltData0A8E81CB4DA3790CFB5C82869A802028.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1_BuiltData.uasset'
+[2020.11.04-00.58.39:056][328]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.11.04-00.58.39:056][328]LogContentValidation: Display: World /Game/Maps/TestMap/Test1.Test1 유효성 검사
+[2020.11.04-00.58.39:056][328]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/TestMap/Test1_BuiltData.Test1_BuiltData 유효성 검사
+[2020.11.04-00.59.07:767][ 71]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-00.59.07:804][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.11.04-00.59.08:295][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-00.59.08:315][122]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile8EBA001542FB30576CB2D0B137DD903F.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-00.59.08:326][122]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-00.59.08:326][122]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-00.59.24:930][ 31]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-00.59.24:990][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.11.04-00.59.26:197][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-00.59.26:217][164]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectileAD647AA5498C00641639C490F91E9ED5.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-00.59.26:230][164]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-00.59.26:230][164]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-01.01.07:323][993]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-01.01.07:370][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.11.04-01.01.07:786][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-01.01.07:808][ 38]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile0869E5404B666EC0CE46CA861CE19FDF.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-01.01.07:824][ 38]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-01.01.07:824][ 38]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-01.01.20:815][403]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-01.01.20:860][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.11.04-01.01.21:357][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-01.01.21:379][457]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectileB0FA5C8343A0B1FEC53061A3E7046DD5.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-01.01.21:398][457]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-01.01.21:398][457]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-01.01.56:250][454]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-01.02.59:334][539]LogSlate: Window '색 선택 툴' being destroyed
+[2020.11.04-01.03.19:534][893]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-01.03.19:580][893]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.11.04-01.03.20:012][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-01.03.20:040][935]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile08E15359482D0E233766B78DC544AB6E.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-01.03.20:058][935]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-01.03.20:058][935]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-01.03.26:493][676]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-01.03.31:794][292]BlueprintLog: New page: BP_GrenadeProjectile 컴파일
+[2020.11.04-01.03.31:837][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.11.04-01.03.32:326][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GrenadeProjectile" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset" SILENT=true
+[2020.11.04-01.03.32:350][344]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_GrenadeProjectile9EDED72C43BBB42E01C36EB75320AD9F.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_GrenadeProjectile.uasset'
+[2020.11.04-01.03.32:365][344]AssetCheck: New page: 애셋 저장: BP_GrenadeProjectile
+[2020.11.04-01.03.32:365][344]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_GrenadeProjectile.BP_GrenadeProjectile 유효성 검사
+[2020.11.04-01.03.41:432][405]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.03.41:432][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.03.43:707][651]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.11.04-01.03.43:730][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-01.03.43:733][651]PIE: New page: PIE 세션: Test1 (2020. 11. 4. 오후 7:03:43)
+[2020.11.04-01.03.43:734][651]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.04-01.03.43:735][651]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.04-01.03.43:735][651]LogPlayLevel: Creating play world package: /Game/Maps/TestMap/UEDPIE_0_Test1
+[2020.11.04-01.03.43:738][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002280s)
+[2020.11.04-01.03.43:739][651]LogAIModule: Creating AISystem for world Test1
+[2020.11.04-01.03.43:739][651]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017C55F22A00), frame # 65651
+[2020.11.04-01.03.43:739][651]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017B8DABFD80), frame # 65651
+[2020.11.04-01.03.43:739][651]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2020.11.04-01.03.43:739][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap/Test1.Test1 to /Game/Maps/TestMap/UEDPIE_0_Test1.Test1 (0.003912s)
+[2020.11.04-01.03.43:768][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-01.03.43:770][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-01.03.43:770][651]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-01.03.43:770][651]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-01.03.43:787][651]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-01.03.43:787][651]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-01.03.43:832][651]LogAudioMixer: Display: Using Audio Device 스피커(USB PnP Audio Device)
+[2020.11.04-01.03.43:832][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-01.03.43:832][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-01.03.43:832][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-01.03.43:832][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-01.03.43:842][651]LogInit: FAudioDevice initialized.
+[2020.11.04-01.03.43:852][651]LogLoad: Game class is 'CoopGameGameModeBase'
+[2020.11.04-01.03.43:853][651]LogWorld: Bringing World /Game/Maps/TestMap/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2020.11.04-10.03.43
+[2020.11.04-01.03.43:853][651]LogWorld: Bringing up level for play took: 0.001310
+[2020.11.04-01.03.43:854][651]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.11.04-01.03.43:868][651]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.11.04-01.03.43:873][651]PIE: 서버가 로그인했습니다.
+[2020.11.04-01.03.43:873][651]PIE: 에디터에서 플레이 총 시작 시간 0.149초입니다.
+[2020.11.04-01.03.44:672][713]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.44:672][713]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.45:240][781]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.45:240][781]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.45:590][823]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.45:590][823]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.45:756][843]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.45:756][843]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.46:233][900]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.46:234][900]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.46:373][917]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.46:373][917]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.46:540][937]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.46:540][937]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.47:540][ 57]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.47:540][ 57]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.47:681][ 74]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.47:681][ 74]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.47:815][ 90]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.47:815][ 90]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.47:957][107]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.47:957][107]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.48:089][123]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.48:090][123]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.48:215][138]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.48:215][138]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.48:340][153]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.03.48:340][153]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.03.48:879][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-01.03.48:879][214]LogWorld: BeginTearingDown for /Game/Maps/TestMap/UEDPIE_0_Test1
+[2020.11.04-01.03.48:879][214]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.03.48:879][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.03.48:887][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-01.03.48:893][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.03.48:932][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-01.03.48:944][214]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017B8DABFD80), frame # 66214
+[2020.11.04-01.03.48:944][214]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017C55F22A00), frame # 66214
+[2020.11.04-01.03.48:969][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.11.04-01.03.49:103][214]LogSlate: Took 0.006786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.04-01.03.49:119][214]LogSlate: Took 0.016347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2020.11.04-01.03.49:137][215]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.11.04-01.03.52:022][532]LogSlate: Window '메시지 로그' being destroyed
+[2020.11.04-01.03.52:025][532]LogSlate: Window '메시지 로그' being destroyed
+[2020.11.04-01.03.56:160][788]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.04-01.04.08:120][106]BlueprintLog: New page: BP_Luncher 컴파일
+[2020.11.04-01.04.08:188][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.11.04-01.04.08:561][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Luncher" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset" SILENT=true
+[2020.11.04-01.04.08:587][140]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/BP_Luncher20C8DB7C4A6F0D6E2C71CDB4D4641698.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/BP_Luncher.uasset'
+[2020.11.04-01.04.08:601][140]AssetCheck: New page: 애셋 저장: BP_Luncher
+[2020.11.04-01.04.08:601][140]LogContentValidation: Display: Blueprint /Game/Blueprints/BP_Luncher.BP_Luncher 유효성 검사
+[2020.11.04-01.04.13:335][685]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.11.04-01.04.13:355][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-01.04.13:355][685]PIE: New page: PIE 세션: Test1 (2020. 11. 4. 오후 7:04:13)
+[2020.11.04-01.04.13:386][685]LogPlayLevel: Creating play world package: /Game/Maps/TestMap/UEDPIE_0_Test1
+[2020.11.04-01.04.13:387][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001782s)
+[2020.11.04-01.04.13:388][685]LogAIModule: Creating AISystem for world Test1
+[2020.11.04-01.04.13:388][685]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017C3CAFB000), frame # 68685
+[2020.11.04-01.04.13:388][685]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017C5109FB00), frame # 68685
+[2020.11.04-01.04.13:388][685]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.11.04-01.04.13:388][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap/Test1.Test1 to /Game/Maps/TestMap/UEDPIE_0_Test1.Test1 (0.002846s)
+[2020.11.04-01.04.13:414][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-01.04.13:416][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-01.04.13:416][685]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-01.04.13:416][685]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-01.04.13:432][685]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-01.04.13:432][685]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-01.04.13:475][685]LogAudioMixer: Display: Using Audio Device 스피커(USB PnP Audio Device)
+[2020.11.04-01.04.13:475][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-01.04.13:475][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-01.04.13:475][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-01.04.13:475][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-01.04.13:485][685]LogInit: FAudioDevice initialized.
+[2020.11.04-01.04.13:494][685]LogLoad: Game class is 'CoopGameGameModeBase'
+[2020.11.04-01.04.13:496][685]LogWorld: Bringing World /Game/Maps/TestMap/UEDPIE_0_Test1.Test1 up for play (max tick rate 0) at 2020.11.04-10.04.13
+[2020.11.04-01.04.13:496][685]LogWorld: Bringing up level for play took: 0.001235
+[2020.11.04-01.04.13:496][685]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.11.04-01.04.13:499][685]PIE: 서버가 로그인했습니다.
+[2020.11.04-01.04.13:499][685]PIE: 에디터에서 플레이 총 시작 시간 0.147초입니다.
+[2020.11.04-01.04.14:355][787]LogScript: Warning: CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	PlayerPawn_C /Game/Maps/TestMap/UEDPIE_0_Test1.Test1:PersistentLevel.PlayerPawn_2
+	Function /Game/Blueprints/PlayerPawn.PlayerPawn_C:ExecuteUbergraph_PlayerPawn:01A7
+[2020.11.04-01.04.14:356][787]PIE: Error: 블루프린트 런타임 오류: "CurrentWeapon 프로퍼티를 읽으려던 중 None 에 접근했습니다.". 블루프린트: PlayerPawn 함수: Execute Ubergraph Player Pawn 그래프: EventGraph 노드: Fire
+[2020.11.04-01.04.14:809][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-01.04.14:809][837]LogWorld: BeginTearingDown for /Game/Maps/TestMap/UEDPIE_0_Test1
+[2020.11.04-01.04.14:809][837]LogWorld: UWorld::CleanupWorld for Test1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.04.14:809][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.04.14:815][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-01.04.14:819][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.04.14:856][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-01.04.14:856][837]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017C5109FB00), frame # 68837
+[2020.11.04-01.04.14:856][837]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017C3CAFB000), frame # 68837
+[2020.11.04-01.04.14:859][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.04-01.04.14:986][838]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.11.04-01.04.22:031][649]LogSlate: Window '메시지 로그' being destroyed
+[2020.11.04-01.04.22:035][649]LogSlate: Window '메시지 로그' being destroyed
+[2020.11.04-01.04.39:403][677]BlueprintLog: New page: PlayerPawn 컴파일
+[2020.11.04-01.04.39:451][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.04-01.04.39:862][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2020.11.04-01.04.39:893][718]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/PlayerPawn376E17994A5C4117FD007FA0E90E4CB0.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Blueprints/PlayerPawn.uasset'
+[2020.11.04-01.04.39:910][718]AssetCheck: New page: 애셋 저장: PlayerPawn
+[2020.11.04-01.04.39:910][718]LogContentValidation: Display: Blueprint /Game/Blueprints/PlayerPawn.PlayerPawn 유효성 검사
+[2020.11.04-01.05.16:092][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.11.04-01.05.17:289][124]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.11.04-01.05.17:317][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/Test1" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.04-01.05.17:342][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.04-01.05.17:370][124]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Test1FF8A94E649506F3B0FA0AFBCB57C55CF.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1.umap'
+[2020.11.04-01.05.17:403][124]LogFileHelpers: Saving map 'Test1' took 0.086
+[2020.11.04-01.05.17:403][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/Test1_BuiltData" FILE="../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1_BuiltData.uasset" SILENT=true
+[2020.11.04-01.05.17:425][124]LogSavePackage: Moving '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Saved/Test1_BuiltDataEFD928274F5C70FB287FCFBDB63D5F1F.tmp' to '../../../../../../Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/Maps/TestMap/Test1_BuiltData.uasset'
+[2020.11.04-01.05.17:466][124]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.04-01.05.17:466][124]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.17:466][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.05.17:507][124]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.04-01.05.17:507][124]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.17:507][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-01.05.17:611][124]LogSlate: Window 'CoopGame - 언리얼 에디터' being destroyed
+[2020.11.04-01.05.17:723][124]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2020.11.04-01.05.17:723][124]LogContentValidation: Display: World /Game/Maps/TestMap/Test1.Test1 유효성 검사
+[2020.11.04-01.05.17:723][124]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/TestMap/Test1_BuiltData.Test1_BuiltData 유효성 검사
+[2020.11.04-01.05.17:724][125]Cmd: QUIT_EDITOR
+[2020.11.04-01.05.17:724][125]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.04-01.05.17:741][125]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.04-01.05.18:463][125]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.11.04-01.05.18:476][125]LogExit: Preparing to exit.
+[2020.11.04-01.05.18:643][125]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:645][125]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:647][125]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:649][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:650][125]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:652][125]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:654][125]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:656][125]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.04-01.05.18:658][125]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:661][125]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jseon/Desktop/Ue4CoopGame/CoopGame/Content/', and we were unable to create a new request.
+[2020.11.04-01.05.18:687][125]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.04-01.05.18:696][125]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-01.05.18:696][125]LogExit: Editor shut down
+[2020.11.04-01.05.18:696][125]LogExit: Transaction tracking system shut down
+[2020.11.04-01.05.18:838][125]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000017B8687A9C0), frame # 72125
+[2020.11.04-01.05.18:838][125]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017B8671EAC0), frame # 72125
+[2020.11.04-01.05.18:838][125]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017B8676DC00), frame # 72125
+[2020.11.04-01.05.18:852][125]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017B94A0BE00), frame # 72125
+[2020.11.04-01.05.18:852][125]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017B8D239BC0), frame # 72125
+[2020.11.04-01.05.18:910][125]LogExit: Object subsystem successfully closed.
+[2020.11.04-01.05.18:933][125]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.04-01.05.18:981][125]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (806)
+[2020.11.04-01.05.18:981][125]LogModuleManager: Shutting down and abandoning module Voice (804)
+[2020.11.04-01.05.18:981][125]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (802)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module PinnedCommandList (800)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module SkeletonEditor (798)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module BlueprintGraph (796)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module CoopGame (794)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module SceneOutliner (790)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module AddContentDialog (788)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module WidgetCarousel (787)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module EditorWidgets (784)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module CollectionManager (782)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module StatsViewer (780)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2020.11.04-01.05.18:982][125]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (766)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (764)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module AutomationWorker (762)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module SteamVREditor (760)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module OculusMR (758)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module GooglePADEditor (756)
+[2020.11.04-01.05.18:983][125]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (754)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (752)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (750)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (748)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (746)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (744)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (742)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (740)
+[2020.11.04-01.05.18:984][125]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (738)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module WebMMedia (736)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (734)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (732)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module SequenceRecorder (731)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (728)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (726)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (724)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (722)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (720)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (718)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (716)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (714)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (712)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (710)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module PlanarCut (708)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module CharacterAI (706)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module TextureAlignMode (704)
+[2020.11.04-01.05.18:985][125]LogModuleManager: Shutting down and abandoning module BspMode (702)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module PlacementMode (701)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module GeometryMode (698)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (696)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module SmartSnapping (694)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module SessionServices (692)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module MeshPaint (690)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module ViewportSnapping (688)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module ViewportInteraction (686)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module ClothPainter (684)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (683)
+[2020.11.04-01.05.18:986][125]LogModuleManager: Shutting down and abandoning module LogVisualizer (680)
+[2020.11.04-01.05.18:987][125]LogModuleManager: Shutting down and abandoning module IntroTutorials (678)
+[2020.11.04-01.05.18:987][125]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (677)
+[2020.11.04-01.05.18:987][125]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (674)
+[2020.11.04-01.05.18:987][125]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (672)
+[2020.11.04-01.05.18:987][125]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (670)
+[2020.11.04-01.05.18:987][125]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (669)
+[2020.11.04-01.05.19:800][125]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (666)
+[2020.11.04-01.05.19:800][125]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (664)
+[2020.11.04-01.05.19:800][125]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (662)
+[2020.11.04-01.05.19:800][125]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (660)
+[2020.11.04-01.05.19:800][125]LogModuleManager: Shutting down and abandoning module TraceInsights (658)
+[2020.11.04-01.05.19:804][125]LogModuleManager: Shutting down and abandoning module TraceServices (657)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (654)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (652)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module InputBindingEditor (650)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module MergeActors (648)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (646)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module LocalizationService (645)
+[2020.11.04-01.05.19:805][125]LogModuleManager: Shutting down and abandoning module HardwareTargeting (642)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (640)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module UndoHistory (638)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module XmlParser (636)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module Blutility (634)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (632)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (631)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (628)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module SettingsEditor (626)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module ProjectLauncher (624)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module SessionFrontend (622)
+[2020.11.04-01.05.19:806][125]LogModuleManager: Shutting down and abandoning module ProfilerClient (620)
+[2020.11.04-01.05.19:807][125]LogModuleManager: Shutting down and abandoning module DeviceManager (618)
+[2020.11.04-01.05.19:807][125]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (617)
+[2020.11.04-01.05.19:838][125]LogModuleManager: Shutting down and abandoning module AutomationController (614)
+[2020.11.04-01.05.19:838][125]LogModuleManager: Shutting down and abandoning module AutomationWindow (612)
+[2020.11.04-01.05.19:839][125]LogModuleManager: Shutting down and abandoning module Layers (610)
+[2020.11.04-01.05.19:840][125]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (608)
+[2020.11.04-01.05.19:840][125]LogModuleManager: Shutting down and abandoning module DetailCustomizations (606)
+[2020.11.04-01.05.19:840][125]LogModuleManager: Shutting down and abandoning module PackagesDialog (604)
+[2020.11.04-01.05.19:840][125]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (602)
+[2020.11.04-01.05.19:841][125]LogModuleManager: Shutting down and abandoning module Persona (600)
+[2020.11.04-01.05.19:841][125]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (599)
+[2020.11.04-01.05.19:841][125]LogModuleManager: Shutting down and abandoning module AnimGraph (597)
+[2020.11.04-01.05.19:841][125]LogModuleManager: Shutting down and abandoning module Kismet (594)
+[2020.11.04-01.05.19:852][125]LogModuleManager: Shutting down and abandoning module KismetWidgets (593)
+[2020.11.04-01.05.19:852][125]LogModuleManager: Shutting down and abandoning module GraphEditor (590)
+[2020.11.04-01.05.19:852][125]LogModuleManager: Shutting down and abandoning module StructViewer (588)
+[2020.11.04-01.05.19:852][125]LogModuleManager: Shutting down and abandoning module ClassViewer (586)
+[2020.11.04-01.05.19:853][125]LogModuleManager: Shutting down and abandoning module Toolbox (584)
+[2020.11.04-01.05.19:853][125]LogModuleManager: Shutting down and abandoning module ModuleUI (582)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module OutputLog (580)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module GammaUI (578)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module Documentation (576)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module LiveCoding (574)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module LevelSequence (572)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (570)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module MovieScene (568)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (566)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module LauncherPlatform (564)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module AnalyticsET (562)
+[2020.11.04-01.05.19:854][125]LogModuleManager: Shutting down and abandoning module PortalServices (560)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module PortalRpc (558)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module MessagingRpc (556)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (554)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module AudioMixerCore (553)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module AIModule (550)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module GameplayDebugger (549)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module AITestSuite (547)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module NavigationSystem (545)
+[2020.11.04-01.05.19:855][125]LogModuleManager: Shutting down and abandoning module ProfilerService (542)
+[2020.11.04-01.05.20:095][125]LogModuleManager: Shutting down and abandoning module TaskGraph (540)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module SynthesisEditor (536)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module Synthesis (534)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (532)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (530)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module OculusEditor (528)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module OculusInput (526)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (524)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module GooglePAD (522)
+[2020.11.04-01.05.20:097][125]LogModuleManager: Shutting down and abandoning module EditableMesh (520)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2020.11.04-01.05.20:098][125]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.11.04-01.05.20:101][125]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.11.04-01.05.20:102][125]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.11.04-01.05.20:102][125]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2020.11.04-01.05.20:102][125]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2020.11.04-01.05.20:102][125]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2020.11.04-01.05.20:102][125]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2020.11.04-01.05.20:103][125]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2020.11.04-01.05.20:104][125]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.11.04-01.05.20:105][125]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.11.04-01.05.20:206][125]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.11.04-01.05.20:307][125]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.11.04-01.05.20:307][125]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.11.04-01.05.20:307][125]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.11.04-01.05.20:309][125]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.11.04-01.05.20:309][125]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.11.04-01.05.20:309][125]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.11.04-01.05.20:309][125]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.11.04-01.05.20:309][125]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.11.04-01.05.20:309][125]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.11.04-01.05.20:310][125]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.11.04-01.05.20:310][125]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.11.04-01.05.20:310][125]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.11.04-01.05.20:310][125]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.11.04-01.05.20:310][125]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.11.04-01.05.20:311][125]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.11.04-01.05.20:312][125]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.11.04-01.05.20:313][125]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.11.04-01.05.20:313][125]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.11.04-01.05.20:313][125]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.11.04-01.05.20:313][125]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.11.04-01.05.20:313][125]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.11.04-01.05.20:313][125]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.11.04-01.05.20:314][125]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.11.04-01.05.20:315][125]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.11.04-01.05.20:315][125]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.11.04-01.05.20:316][125]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.11.04-01.05.20:317][125]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.11.04-01.05.20:318][125]LogXGEController: Cleaning working directory: C:/Users/jseon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.11.04-01.05.20:318][125]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.11.04-01.05.20:319][125]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.11.04-01.05.20:320][125]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.11.04-01.05.20:321][125]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.11.04-01.05.20:323][125]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.11.04-01.05.20:323][125]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.11.04-01.05.20:323][125]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.11.04-01.05.20:323][125]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.11.04-01.05.20:324][125]LogHMD: Freeing OpenVRDLLHandle.
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.11.04-01.05.20:324][125]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.11.04-01.05.20:325][125]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.11.04-01.05.20:325][125]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.11.04-01.05.20:336][125]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.11.04-01.05.20:336][125]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.04-01.05.20:336][125]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDEADC85B-400F-136A-C66C-01A2C5AC7F16%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=d508b3cc4cb5a7370342f5bbe197a5b7%7C9766f8ddb16b49e9835739e01c8f9a48%7Cc4baf095-007c-4f05-a446-9fddd19d3bb1&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.11.04-01.05.20:364][125]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.11.04-01.05.20:365][125]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.11.04-01.05.20:366][125]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.11.04-01.05.20:367][125]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.11.04-01.05.20:368][125]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.11.04-01.05.20:368][125]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.11.04-01.05.20:368][125]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.11.04-01.05.20:368][125]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.11.04-01.05.20:369][125]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.11.04-01.05.20:369][125]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.11.04-01.05.20:369][125]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.11.04-01.05.20:369][125]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.11.04-01.05.20:370][125]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.11.04-01.05.20:371][125]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.11.04-01.05.20:371][125]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.11.04-01.05.20:373][125]LogD3D11RHI: Shutdown
+[2020.11.04-01.05.20:373][125]LogD3D11RHI: CleanupD3DDevice
+[2020.11.04-01.05.20:381][125]LogExit: Exiting.
+[2020.11.04-01.05.20:386][125]Log file closed, 11/04/20 10:05:20

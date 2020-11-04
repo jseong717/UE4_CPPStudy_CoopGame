@@ -28,6 +28,9 @@ protected:
 	void BeginCrouch();
 	void EndCrouch();
 
+	void BeginZoom();
+	void EndZoom();
+
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "State")
 	bool IsJumping;
 
@@ -36,6 +39,18 @@ protected:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Comp")
 	USpringArmComponent* SpringArmComp;
+
+	bool bWantsToZoom;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Zoom", meta = (ClampMin = 0.1f, ClampMax = 100.0f))
+	float ZoomInterpSpeed;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Zoom")
+	float ZoomedFOV;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Zoom")
+	float DefaultFOV;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
