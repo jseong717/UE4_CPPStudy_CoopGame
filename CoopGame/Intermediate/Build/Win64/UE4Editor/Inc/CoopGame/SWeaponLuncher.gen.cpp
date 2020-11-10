@@ -89,7 +89,7 @@ void EmptyLinkFunctionForGeneratedCodeSWeaponLuncher() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASWeaponLuncher, 1051288442);
+	IMPLEMENT_CLASS(ASWeaponLuncher, 1549882833);
 	template<> COOPGAME_API UClass* StaticClass<ASWeaponLuncher>()
 	{
 		return ASWeaponLuncher::StaticClass();

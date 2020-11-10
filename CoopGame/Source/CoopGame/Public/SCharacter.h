@@ -56,6 +56,7 @@ protected:
 	UPROPERTY(EditDefaultsOnly, Category = "Zoom")
 	float DefaultFOV;
 
+	UPROPERTY(Replicated)
 	ASWeapon* CurrentWeapon;
 
 	UPROPERTY(EditDefaultsOnly, Category = "Weapon")
@@ -70,7 +71,7 @@ protected:
 	UFUNCTION()
 	void OnHealthChanged(USHealthComponent* _HealthComp, float Health, float HealthDelta, const class UDamageType* DamageType, class AController* InstigatedBy, AActor* DamageCauser);
 
-	UPROPERTY(BlueprintReadOnly, Category = "State")
+	UPROPERTY(Replicated, BlueprintReadOnly, Category = "State")
 	bool bDead;
 
 public:	
