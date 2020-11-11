@@ -1,0 +1,3 @@
+C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Development\CoopGame\Definitions.CoopGame.h
+C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Source\CoopGame\Public\SPowerupActor.h
+C:\Users\jseon\Desktop\Ue4CoopGame\CoopGame\Intermediate\Build\Win64\UE4Editor\Inc\CoopGame\SPowerupActor.generated.h
