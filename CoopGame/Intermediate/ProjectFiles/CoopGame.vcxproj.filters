@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CoopGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{63E05F3A-2B15-4101-B273-E03FBD589E40}</UniqueIdentifier>
+      <UniqueIdentifier>{67299385-D64E-40E8-B56C-72B39B21EB85}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{1C11ABAF-ADD0-41B7-8F51-AD788FBB26A6}</UniqueIdentifier>
+      <UniqueIdentifier>{CF0A2C75-328C-4D3F-957E-0B2AE1ABFD69}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CoopGame">
-      <UniqueIdentifier>{E7EE4579-038A-4185-A335-09F652AB556F}</UniqueIdentifier>
+      <UniqueIdentifier>{10010BBB-639C-4948-96B0-77DDED5A483D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CoopGame\CoopGame.Build.cs">
       <Filter>Source\CoopGame</Filter>
@@ -38,19 +38,16 @@
     <ClInclude Include="..\..\Source\CoopGame\CoopGame.h">
       <Filter>Source\CoopGame</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\CoopGame\CoopGameGameModeBase.cpp">
-      <Filter>Source\CoopGame</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\CoopGame\CoopGameGameModeBase.h">
-      <Filter>Source\CoopGame</Filter>
-    </ClInclude>
     <Filter Include="Source\CoopGame\Private">
-      <UniqueIdentifier>{DD0BB5FD-2F56-4F6E-BC7C-A303BF01D989}</UniqueIdentifier>
+      <UniqueIdentifier>{D8779956-AB25-4BE4-A2CD-987F4681F2A0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\CoopGame\Private\ExplosiveObject.cpp">
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\CoopGame\Private\SCharacter.cpp">
+      <Filter>Source\CoopGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CoopGame\Private\SGameMode.cpp">
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\CoopGame\Private\SHealthComponent.cpp">
@@ -72,12 +69,15 @@
       <Filter>Source\CoopGame\Private</Filter>
     </ClCompile>
     <Filter Include="Source\CoopGame\Public">
-      <UniqueIdentifier>{805BFE4C-C7DB-44DA-A98E-BF191CD6908A}</UniqueIdentifier>
+      <UniqueIdentifier>{74F5A97B-390F-4624-9311-0BAB4D9BA065}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\CoopGame\Public\ExplosiveObject.h">
       <Filter>Source\CoopGame\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\CoopGame\Public\SCharacter.h">
+      <Filter>Source\CoopGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CoopGame\Public\SGameMode.h">
       <Filter>Source\CoopGame\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\CoopGame\Public\SHealthComponent.h">
